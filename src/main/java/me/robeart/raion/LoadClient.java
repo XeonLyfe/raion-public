@@ -1,7 +1,6 @@
 package me.robeart.raion;
 
 import me.cookiedragon234.falcon.NativeAccessor;
-import me.robeart.raion.client.Raion;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 
 /**
